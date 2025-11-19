@@ -1,1 +1,1 @@
-Здесь представлены проекты, выполненные в ходе обучения в Практикуме на курсе <a href="https://practicum.yandex.ru/bi-analyst/" target="_blank" rel="noopener">BI аналитик</a>
+Here I present the projects completed during the [BI analyst](https://practicum.yandex.ru/bi-analyst/) course and the test tasks
