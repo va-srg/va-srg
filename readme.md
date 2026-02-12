@@ -10,72 +10,76 @@ Here I present the projects completed during the [BI analyst](https://practicum.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 12px; margin: 15px 0;">
   <img
-    src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"
+    src="https://img.shields.io/badge/SQL-7BA8D1?style=for-the-badge&logo=sql&logoColor=white"
     alt="SQL"
-    style="vertical-align: middle;"
+    style="vertical-align: middle; border: 1px solid #5F8FB5; border-radius: 8px;"
   >
   <img
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+    src="https://img.shields.io/badge/PostgreSQL-7BA8D1?style=for-the-badge&logo=postgresql&logoColor=white"
     alt="PostgreSQL"
-    style="vertical-align: middle;"
+    style="vertical-align: middle; border: 1px solid #5F8FB5; border-radius: 8px;"
   >
 </div>
 
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
   <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    src="https://img.shields.io/badge/Python-A7C7E7?style=for-the-badge&logo=python&logoColor=white"
     alt="Python"
     style="vertical-align: middle;"
   >
   <img
-    src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+    src="https://img.shields.io/badge/pandas-A7C7E7?style=for-the-badge&logo=pandas&logoColor=white"
     alt="Pandas"
     style="vertical-align: middle;"
   >
   <img
-    src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+    src="https://img.shields.io/badge/NumPy-A7C7E7?style=for-the-badge&logo=numpy&logoColor=white"
     alt="NumPy"
     style="vertical-align: middle;"
   >
   <img
-    src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white"
+    src="https://img.shields.io/badge/Matplotlib-A7C7E7?style=for-the-badge&logo=matplotlib&logoColor=white"
     alt="Matplotlib"
     style="vertical-align: middle;"
   >
   <img
-    src="https://img.shields.io/badge/Seaborn-2976A9?style=for-the-badge&logo=seaborn&logoColor=white"
+    src="https://img.shields.io/badge/Seaborn-A7C7E7?style=for-the-badge&logo=seaborn&logoColor=white"
     alt="Seaborn"
     style="vertical-align: middle;"
   >
   <img
-    src="https://img.shields.io/badge/Phik-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNNTAgMTBMMTAwIDkwSDBMNTAgMTBaTTAgMHYxMDBoMTAwdjEwMHYtMjEwWiIgZmlsbD0iI0ZGRiIvPjwvc3ZnPg=="
+    src="https://img.shields.io/badge/Phik-A7C7E7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNNTAgMTBMMTAwIDkwSDBMNTAgMTBaTTAgMHYxMDBoMTAwdjEwMHYtMjEwWiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg=="
     alt="Phik"
     style="vertical-align: middle;"
   >
   <img
-    src="https://img.shields.io/badge/IPython-4A4A74?style=for-the-badge&logo=ipython&logoColor=white"
+    src="https://img.shields.io/badge/IPython-A7C7E7?style=for-the-badge&logo=ipython&logoColor=white"
     alt="IPython"
     style="vertical-align: middle;"
   >
 </div>
 
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 12px; margin: 20px 0; flex-wrap: wrap;">
   <img
-    src="https://img.shields.io/badge/DataLens-A7C7E7?style=for-the-badge&logoColor=white&labelColor=A7C7E7&color=A7C7E7&textColor=white"
+    src="https://img.shields.io/badge/DataLens-D3D3D3?style=for-the-badge&logoColor=555555&labelColor=D3D3D3&color=D3D3D3&textColor=555555"
     alt="DataLens"
     style="vertical-align: middle;"
   >
   <img
-    src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white&labelColor=F2C811&color=F2C811&textColor=white"
+    src="https://img.shields.io/badge/Power_BI-D3D3D3?style=for-the-badge&logo=power-bi&logoColor=555555&labelColor=D3D3D3&color=D3D3D3&textColor=555555"
     alt="Power BI"
     style="vertical-align: middle;"
   >
   <img
-    src="https://img.shields.io/badge/Apache_Superset-005A8C?style=for-the-badge&logo=apache-superset&logoColor=white&labelColor=005A8C&color=005A8C&textColor=white"
+    src="https://img.shields.io/badge/Apache_Superset-D3D3D3?style=for-the-badge&logo=apache-superset&logoColor=555555&labelColor=D3D3D3&color=D3D3D3&textColor=555555"
     alt="Apache Superset"
     style="vertical-align: middle;"
   >
 </div>
+
+
 
 </p>
 
